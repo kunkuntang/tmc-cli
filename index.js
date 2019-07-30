@@ -1,0 +1,1 @@
+console.log('welcome using tmc CLI')
